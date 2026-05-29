@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Interview Coach
 
 ## What It Does
@@ -93,3 +94,6 @@ I manually designed the application architecture, API flow, frontend structure, 
 ## Future Scope
 
 The platform can evolve into a complete AI-powered placement preparation assistant for students and job seekers.
+=======
+# AI-Resume-Interview-Coach
+>>>>>>> 18a3bbef4416a148d90abc907b80e73633fd4b0b
